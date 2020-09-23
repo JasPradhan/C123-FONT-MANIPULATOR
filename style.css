@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading{
+    width:100%;
+    border-radius:30px;
+    background: rgb(30, 255, 0);
+}
+
+.header_1{
+    font-size:23px;
+    font-family: 'Luckiest Guy', cursive;
+    margin:10px;
+}
+
+.note{
+    font-size:15px;
+    color:black;
+}
+
+.copy_right_footer{
+    line-height:3;
+    bottom:0;
+    background-color:rgb(0, 212, 28);
+    position:fixed;
+    width:100%;
+    text-align:center;
+    color:rgb(0, 0, 0);
+}
+
+canvas{
+    border:5px outset chartreuse;
+    border-radius:20px;
+    box-shadow: 5px 5px 18px rgb(0, 0, 0);
+}
+
+#text{
+    color:rgb(54, 54, 54);
+    border:5px outset red;
+    border-radius:30px;
+}
