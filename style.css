@@ -31,7 +31,7 @@ body {
 }
 
 canvas {
-    border: 5px outset chartreuse;
+    border: 10px outset chartreuse;
     border-radius: 20px;
     box-shadow: 5px 5px 18px rgb(223, 223, 223);
 }
@@ -40,4 +40,10 @@ canvas {
     color: rgb(54, 54, 54);
     border: 5px outset red;
     border-radius: 30px;
+}
+
+video{
+    margin-left:10px;
+    border-radius:100px;
+    border:10px silver outset;
 }
