@@ -39,7 +39,8 @@ canvas {
 #text {
     color: rgb(54, 54, 54);
     border: 5px outset red;
-    border-radius: 30px;
+    border-radius: 30px;    
+    margin-top:8px;
 }
 
 video{
